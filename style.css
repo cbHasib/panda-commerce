@@ -1,9 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .bg-hero {
     background-color: #FEEAE9;
 }
 
 .color-primary{
     color: #FF136F;
+}
+
+.bg-grey{
+    background: #F4F4F4;
 }
 
 
@@ -34,4 +42,8 @@
     color: #FF136F;
     border-color: #FF136F;
     background: transparent;
+}
+
+.grey-bg{
+    background: #F4F4F4;
 }
